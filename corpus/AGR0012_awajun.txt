@@ -1,0 +1,218 @@
+Contenido
+Pág.
+Pág.
+Cantidad
+Porcentaje
+En Inicio
+TOTAL
+Secciones
+Secciones
+Secciones
+Secciones
+Secciones
+Secciones
+Secciones
+Total
+En inicio
+Total
+Cantidad
+Porcentaje
+En Inicio
+Total
+Secciones
+Secciones
+Secciones
+Secciones
+Secciones
+Total
+En Inicio
+Total
+UGEL*
+Global
+18,0 %
+26,0 %
+En Inicio
+56,0 %
+Total
+100%
+UGEL
+Global
+18,8 %
+27,0 %
+En Inicio
+54,3 %
+Total
+100%
+Texto
+Capacidad
+Oración
+Carmen
+Oración
+Dusijik
+Nota
+Delia
+Nota
+Delia
+Narrativo
+Narrativo
+Narrativo
+Narrativo
+Narrativo
+Descriptivo
+Namak globo tutai
+Descriptivo
+Namak globo tutai
+Descriptivo
+Namak globo tutai
+Descriptivo
+Namak globo tutai
+Noticia
+Atuegat iwaintuniamu
+Noticia
+Atuegat iwaintuniamu
+Noticia
+Atuegat iwaintuniamu
+Noticia
+Atuegat iwaintuniamu
+Descriptivo
+Descriptivo
+Ujuch
+Descriptivo
+Texto
+Capacidad
+Oración
+Manuel
+Oración
+Uchi
+Anecdota
+Apach Yuuk
+Anecdota
+Apach Yuuk
+Narrativo
+Mente
+Narrativo
+Mente
+Narrativo
+Mente
+Narrativo
+Mente
+Narrativo
+Mente
+Descriptivo
+Shikiit aidau
+Descriptivo
+Shikiit aidau
+Descriptivo
+Shikiit aidau
+Descriptivo
+Shikiit aidau
+Noticia
+Kuntin aidau
+Noticia
+Kuntin aidau
+Noticia
+Kuntin aidau
+Noticia
+Kuntin aidau
+Descriptivo
+Nimpanku waugkamin dekapeamu
+Descriptivo
+Nimpanku waugkamin dekapeamu
+Descriptivo
+Nimpanku waugkamin dekapeamu
+Texto
+Capacidad
+Oración
+Oración
+Patricia lloró
+Nota
+Nota
+Descriptivo
+Descriptivo
+Descriptivo
+Descriptivo
+Cuento
+Cuento
+Cuento
+Cuento
+Cuento
+Descriptivo
+Descriptivo
+Descriptivo
+naturaleza
+Descriptivo
+Instructivo
+Instructivo
+Instructivo
+Texto
+Capacidad
+Oración
+Oración
+Margarita lleva a su hermano
+Oración
+Anécdota
+Mi abuela Modesta
+Anécdota
+Mi abuela Modesta
+Cuento
+La lupuna
+Cuento
+La lupuna
+Cuento
+La lupuna
+Cuento
+La lupuna
+Cuento
+La lupuna
+Descriptivo
+El atún
+Descriptivo
+El atún
+Descriptivo
+El atún
+Descriptivo
+El atún
+Noticia
+Noticia
+Noticia
+Noticia
+Cobertura
+¿Shikit natsati tutaiya dusha wagka ima esagmaita
+Agagbaush wajina jikattsash augmatua
+Agagbaunmash, ¿namak globo tutaiya dusha wajina shiig anentsash yuwaita
+Apach Yuuk Tujashkam Dapi dupa tsuwakjai wajas tsawaje pujawai. besek wake asa. esatbau Yawayin tsuwaje yawayinak apachik pegkeg yawashkam dutikam
+¿Apach Yuukish wajinai yawayinash tsuwajuita
+¿Apach Yuukish wagka wake besekash pujayawa
+Dusijik kaipin namuawai uchiji aidaun tsuwagta tau asa
+¿Dusigkish wagka kaipnash namuawa
+La pelota
+Continúa
+Observemos el ejemplo
+a b
+a b c
+a b
+Continúa
+¿De qué trata principalmente el texto
+¿De qué trata principalmente el texto
+¿Tsujinmaya aents aidaush wagkag nujantaish waitianume
+Iwa ajaji atanjam. a
+Ajaka jigkayi kaukmatai. b
+Yampis ajaka jigkayi yuwa amutkam. c
+Iwa batsatkamu Tsujinum anetuk niina nuwen itauwai muuntan jegamak nuu batsatkamunum pujusui. Nuwi nagkamas Iwa nuwigtu niina patayi aidauk ajuidau ajakmatai jigkayi nuwigtu ajajishkam Tujash aents Tsujinmayag yumainji atsujam nujantai waituidau; Makichik tsawantai, Iwashkam nuwejai ajajin wegajui: Uchijin ajakmatai jiigkayin aga anagbaun kuwitamkati tusa. Tujash wasugkamainak kajimatkiaju jiigkai kuwitabaunak. pujus Antsag jega yutai apukiu
+¿Agagbaush wajina jikattsash augmatua
+Iwa batsatkamu Tsujin wajuk anetkag pujusami nuna pachis. a
+Iwa jega muuntan wajuk jegamkauwaita nuna pachis. b
+Iwa uchiji aidau wajuk wasugkamkug batsamsami nuna pachis. c
+' '¿De qué trata principalmente el texto
+'¿Iwa nuwejai ajanum webaunmash nuwigtush waji nagkaemakiuwaita
+Tsujinmaya aents ikam pisajaju. a
+Iwa aidau jega muntan jegamkaju. b
+Iwa uchiji aidau wasugkamainak batsamsaju. c
+Iwa batsatkamu Tsujinum anetuk niina nuwen itauwai. muuntan jegamak nuu batsatkamunum pujusui: Nuwi nagkamas Iwa nuwigtu niina patayi aidauk ajuidau yutai ajakmatai jigkayi nuwigtu ajajishkam Tujash aents Tsujinmayag yumainji atsujam nujantai waituidau Makichik tsawantai, Iwashkam nuwejai ajajin wegajui. Uchijin ajakmatai jiigkayin aga anagbaun kuwitamkati tusa. Tujash wasugkamainak kajimatkiaju jïigkai kuwitabaunak. pujus Antsag jegg apukiu
+iAgagbaush utugkati tusaiya agagbauwaita
+Ujuch wajigkita nuna tujamti tusa
+Ujuch wajuk awatmainaita nuna akatamjati tusa
+Ujuch kutamjatin wajuk umitaiyita nuna jintinjamati tusa
+Place, K
+&amp; Gempp, R
+(2013)
